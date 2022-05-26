@@ -1,8 +1,6 @@
 # Our contributions
 
-> disclaimer: this fork is to try out the commitment and gather feedback for sosinitiative;
-
-This is a resume stating what we [Betabit](https://www.betabit.nl) actually do to pay back to the community.
+This is a resume stating what we [Betabit](https://www.betabit.nl) do to pay back to the community.
 
 ## Knowledge sharing
 We love to share what we have learned through videos, blogs, free books and talks. Follow the links to our content.
